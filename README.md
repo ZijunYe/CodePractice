@@ -1,9 +1,9 @@
-# Practice code 
+# CodeChallenge
 
-### practice practice practice
+### CodeEveryday:)
 
 👋 Hi This repository that i create it for record my practice of code
 
 resource comes from:
-https://projecteuler.net/archives && leetcode
+https://projecteuler.net/archives
 
