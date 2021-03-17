@@ -1,4 +1,4 @@
-####### LeetCode Notes
+### LeetCode Notes
 
 
 1. `Length vs length()`
