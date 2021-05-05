@@ -18,14 +18,6 @@ each element of array A is an integer within the range [−1,000,000..1,000,000]
 */ 
 
 class Solution {
-    public int solution(int[] A) {
-        int smallestInt = 1;
-      	for(int i )
-    }
-}
-
-
-/* solution
 public class Solution {
     public int firstMissingPositive(int[] num) {
         for (int i = 0; i < num.length; i++) {
